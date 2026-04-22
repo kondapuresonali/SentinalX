@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667244004701",
+    "project_id": "sentinalx-d44cb",
+    "storage_bucket": "sentinalx-d44cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667244004701:android:c644414fe1b43d824a14b4",
+        "android_client_info": {
+          "package_name": "com.company.sentinalx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ycg_FfSABdkNjQM9aJTMUdP1eYOX3B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667244004701:android:45dd24dfb2f700204a14b4",
+        "android_client_info": {
+          "package_name": "com.example.sentinalx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ycg_FfSABdkNjQM9aJTMUdP1eYOX3B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

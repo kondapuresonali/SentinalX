@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">SentinalX</string>
+    <string name="tagline">Your Digital Twin. Your Security.</string>
+
+    <!-- UI Labels -->
+    <string name="scan_link">Scan Link</string>
+    <string name="settings">Settings</string>
+    <string name="activity_logs">Activity Logs</string>
+    <string name="browser_integration">Browser Integration</string>
+
+    <!-- Accessibility Service Description -->
+    <string name="accessibility_service_description">SentinalX Link Protection Service\n\nThis service monitors links in your apps (WhatsApp, Instagram, Chrome, etc.) and scans them using digital twin technology before you open them.\n\n• Detects suspicious links in real-time\n• Blocks phishing attempts\n• Protects your digital identity\n\nNo personal data is collected or transmitted.</string>
+</resources>
