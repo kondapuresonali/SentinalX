@@ -62,7 +62,7 @@ This project is built to explore mobile security concepts and provide a simple s
 
 ## 👩‍💻 Author
 
-Developed by Sonali , Sumeet patil , Neha and Manikeshwari
+Developed by Team SentinalX(Sonali , Sumeet patil , Neha and Manikeshwari)
 
 ---
 
